@@ -1,0 +1,20 @@
+{
+  "name": "log_easy_001",
+  "skillType": "logic",
+  "difficulty": "easy",
+  "estimatedTimeSec": 45,
+  "question": {
+    "fr": "2, 4, 8, 16, ?",
+    "en": "2, 4, 8, 16, ?"
+  },
+  "options": ["24", "32", "64", "20"],
+  "correctAnswer": "32",
+  "explanation": {
+    "fr": "×2 chaque fois.",
+    "en": "×2 each time."
+  },
+  "xpReward": {
+    "correct": 5,
+    "incorrect": 2
+  }
+}

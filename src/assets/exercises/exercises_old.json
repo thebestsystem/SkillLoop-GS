@@ -1,0 +1,82 @@
+[
+  {
+    "id": "log_easy_001",
+    "skillType": "logic",
+    "difficulty": "easy",
+    "estimatedTimeSec": 45,
+    "question": {
+      "fr": "2, 4, 8, 16, ?",
+      "en": "2, 4, 8, 16, ?"
+    },
+    "options": ["24", "32", "64", "20"],
+    "correctAnswer": "32",
+    "explanation": {
+      "fr": "×2 chaque fois.",
+      "en": "×2 each time."
+    },
+    "xpReward": {
+      "correct": 5,
+      "incorrect": 2
+    }
+  },
+  {
+    "id": "mem_easy_001",
+    "skillType": "memory",
+    "difficulty": "easy",
+    "estimatedTimeSec": 30,
+    "question": {
+      "fr": "Quel nombre manque : 3, 7, 11, ?",
+      "en": "What number is missing: 3, 7, 11, ?"
+    },
+    "options": ["13", "15", "17", "19"],
+    "correctAnswer": "15",
+    "explanation": {
+      "fr": "+4 chaque fois.",
+      "en": "+4 each time."
+    },
+    "xpReward": {
+      "correct": 5,
+      "incorrect": 2
+    }
+  },
+  {
+    "id": "voc_easy_001",
+    "skillType": "vocabulary",
+    "difficulty": "easy",
+    "estimatedTimeSec": 60,
+    "question": {
+      "fr": "Quel mot est le synonyme de 'rapide' ?",
+      "en": "Which word is a synonym for 'fast'?"
+    },
+    "options": ["Lent", "Vite", "Mou", "Froid"],
+    "correctAnswer": "Vite",
+    "explanation": {
+      "fr": "Vite signifie rapide.",
+      "en": "Vite means fast."
+    },
+    "xpReward": {
+      "correct": 5,
+      "incorrect": 2
+    }
+  },
+  {
+    "id": "cre_easy_001",
+    "skillType": "creativity",
+    "difficulty": "easy",
+    "estimatedTimeSec": 90,
+    "question": {
+      "fr": "Combien d'utilisations peut-on trouver pour une brique ?",
+      "en": "How many uses can you find for a brick?"
+    },
+    "options": ["1-2", "3-5", "6-10", "10+"],
+    "correctAnswer": "10+",
+    "explanation": {
+      "fr": "La créativité permet de nombreuses utilisations.",
+      "en": "Creativity allows for many uses."
+    },
+    "xpReward": {
+      "correct": 5,
+      "incorrect": 2
+    }
+  }
+]

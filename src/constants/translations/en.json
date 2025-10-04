@@ -1,0 +1,49 @@
+{
+  'onboarding': {
+    'welcome': {
+      'title': 'Welcome to SkillLoop',
+      'subtitle': 'Train your brain with micro-cognitive exercises',
+      'description': 'Just 3 minutes a day to improve your logic, memory, and creativity',
+      'continue': 'Continue'
+    },
+    'interests': {
+      'title': 'Choose your interests',
+      'subtitle': 'Select at least 2 categories to personalize your training',
+      'logic': 'Logic',
+      'memory': 'Memory',
+      'vocabulary': 'Vocabulary',
+      'creativity': 'Creativity',
+      'continue': 'Continue'
+    },
+    'schedule': {
+      'title': 'Choose your preferred time">,
+      'subtitle': 'When would you like to receive daily exercises?',
+      '8am': '8:00 AM',
+      '12pm': '12:00 PM',
+      '7pm': '7:00 PM',
+      'continue': 'Continue'
+    },
+    'trial': {
+0027title': 'Start your 7-day free trial',
+      'subtitle': 'Unlock unlimited loops and advanced analytics',
+      'features': {
+        'unlimited': 'Unlimited loops',
+        'analytics': 'Advanced analytics',
+        'streak': 'Streak freeze',
+        'support': 'Priority support'
+      },
+      'startTrial': 'Start Free Trial',
+      'skip': 'Skip for now'
+    }
+  },
+  'common': {
+    'loading': 'Loading...',
+    'error': 'An error occurred',
+    'retry': 'Retry',
+    'cancel': 'Cancel',
+    'save': 'Save',
+    'delete': 'Delete',
+    'edit': 'Edit',<
+    'ok': 'OK'
+  }
+}

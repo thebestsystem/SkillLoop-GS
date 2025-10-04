@@ -1,0 +1,49 @@
+{
+  'onboarding': {
+    'welcome': {
+      'title': 'Bienvenue dans SkillLoop',
+      'subtitle': 'Entraînez votre cerveau avec des micro-exercices cognitifs',
+      'description': 'Juste 3 minutes par jour pour améliorer votre logique, mémoire et créativité',
+      'continue': 'Continuer'
+    },
+    'interests': {
+      'title': 'Choisissez vos centres d'intérêt',
+      'subtitle': 'Sélectionnez au moins 2 catégories pour personnaliser votre entraînement',
+      'logic': 'Logique',
+      'memory': 'Mémoire',
+      'vocabulary': 'Vocabulaire',
+      'creativity': 'Créativité',
+      'continue': 'Continuer'
+    },
+    'schedule': {
+      'title': 'Choisissez votre heure préférée',
+      'subtitle': 'Quand souhaitez-vous recevoir vos exercices quotidiens ?',
+      '8am': '8h00',
+      '12pm': '12h00',
+      '7pm': '19h00',
+      'continue': 'Continuer'
+    },
+    'trial': {
+      'title': 'Commencez votre essai gratuit de 7 jours',
+      'subtitle': 'Débloquez des boucles illimitées et des analyses avancées',
+      'features': {
+        'unlimited': 'Boucles illimitées',
+        'analytics': 'Analyses avancées',
+        'streak': 'Freeze de série',
+        'support': 'Support prioritaire'
+      },
+      'startTrial': 'Commencer l'essai gratuit',
+      'skip': 'Passer pour le moment'
+    }
+  },
+  'common': {
+    'loading': 'Chargement...',
+    'error': 'Une erreur est survenue',
+    'retry': 'Réessayer',<
+    'cancel': 'Annuler',
+    'save': 'Sauvegarder',
+    'delete': 'Supprimer',
+    'edit': 'Modifier',
+    'ok': 'OK'
+  }
+}
